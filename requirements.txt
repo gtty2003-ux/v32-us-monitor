@@ -4,3 +4,4 @@ yfinance
 numpy
 pytz
 matplotlib
+PyGithub
